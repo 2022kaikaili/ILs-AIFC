@@ -24,7 +24,7 @@ rdkit==2023.9.6\
 scikit_learn==1.3.2\
 seaborn==0.13.0\
 torch==1.13.1\
-tqdm==4.66.1\
+tqdm==4.66.1
 
 ## Usage
 ***
