@@ -7,8 +7,9 @@
 This code is the basis of our work submitted to *AIChE Journal*, aiming to 
 integrate *a-priori* knowledge, i.e. ionic fragment contribution theory, with graph neural networks and attention mechanism, and bring more insights in the prediction of properties of ionic liquids. This is an **alpha version** of the models used to generate the results published in:
 
-[An explainable ionic liquid property model by coupling ionic fragment contribution with graph neural network]
+[An explainable ionic liquid property model by coupling ionic fragment contribution with graph neural network]( https://doi.org/10.1002/aic.70113)
 
+DOI：10.1002/aic.70113
 
 ## Prerequisites and dependencies
 ***
